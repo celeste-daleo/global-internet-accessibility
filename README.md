@@ -1,5 +1,10 @@
 # Global internet accessibility
 
+## Data:
+
+- https://ourworldindata.org/internet
+- https://data.worldbank.org/indicator/IT.NET.USER.ZS
+
 ## How Much of the World Has Access to the Internet?
  
 In this report I'll aim to answer thr following questions:
