@@ -8524,37 +8524,37 @@ West Bank and Gaza,PSE,2017,63.3,Middle East & North Africa,Lower middle income,
 West Bank and Gaza,PSE,2018,64.39999371,Middle East & North Africa,Lower middle income,National accounts data are provided in the US dollar.
 West Bank and Gaza,PSE,2019,70.6225837,Middle East & North Africa,Lower middle income,National accounts data are provided in the US dollar.
 West Bank and Gaza,PSE,2020,74.6,Middle East & North Africa,Lower middle income,National accounts data are provided in the US dollar.
-World,WLD,1990,0.0488246930836708,,,World aggregate.
-World,WLD,1991,0.078810516480602,,,World aggregate.
-World,WLD,1992,0.125186329068216,,,World aggregate.
-World,WLD,1993,0.179006679561227,,,World aggregate.
-World,WLD,1994,0.360508148999431,,,World aggregate.
-World,WLD,1995,0.6830820605321,,,World aggregate.
-World,WLD,1996,1.32656715777098,,,World aggregate.
-World,WLD,1997,2.04269705765004,,,World aggregate.
-World,WLD,1998,3.14057959772322,,,World aggregate.
-World,WLD,1999,4.63290278425647,,,World aggregate.
-World,WLD,2000,6.74371951164793,,,World aggregate.
-World,WLD,2001,8.05355597290396,,,World aggregate.
-World,WLD,2002,10.5185284204174,,,World aggregate.
-World,WLD,2003,12.195854587379,,,World aggregate.
-World,WLD,2004,14.0818185720611,,,World aggregate.
-World,WLD,2005,15.6746614701687,,,World aggregate.
-World,WLD,2006,17.4227824771635,,,World aggregate.
-World,WLD,2007,20.350853799975,,,World aggregate.
-World,WLD,2008,23.0022914898677,,,World aggregate.
-World,WLD,2009,25.5528191872428,,,World aggregate.
-World,WLD,2010,28.794889725981,,,World aggregate.
-World,WLD,2011,31.2150097185221,,,World aggregate.
-World,WLD,2012,33.7174057129876,,,World aggregate.
-World,WLD,2013,35.659656834335,,,World aggregate.
-World,WLD,2014,37.8926274881521,,,World aggregate.
-World,WLD,2015,40.2923627761082,,,World aggregate.
-World,WLD,2016,43.2853710181541,,,World aggregate.
-World,WLD,2017,45.7661676897995,,,World aggregate.
-World,WLD,2018,49.2336352611064,,,World aggregate.
-World,WLD,2019,53.5706603541952,,,World aggregate.
-World,WLD,2020,59.577400514468,,,World aggregate.
+World,WLD,1990,0.0488246930836708,World,,World aggregate.
+World,WLD,1991,0.078810516480602,World,,World aggregate.
+World,WLD,1992,0.125186329068216,World,,World aggregate.
+World,WLD,1993,0.179006679561227,World,,World aggregate.
+World,WLD,1994,0.360508148999431,World,,World aggregate.
+World,WLD,1995,0.6830820605321,World,,World aggregate.
+World,WLD,1996,1.32656715777098,World,,World aggregate.
+World,WLD,1997,2.04269705765004,World,,World aggregate.
+World,WLD,1998,3.14057959772322,World,,World aggregate.
+World,WLD,1999,4.63290278425647,World,,World aggregate.
+World,WLD,2000,6.74371951164793,World,,World aggregate.
+World,WLD,2001,8.05355597290396,World,,World aggregate.
+World,WLD,2002,10.5185284204174,World,,World aggregate.
+World,WLD,2003,12.195854587379,World,,World aggregate.
+World,WLD,2004,14.0818185720611,World,,World aggregate.
+World,WLD,2005,15.6746614701687,World,,World aggregate.
+World,WLD,2006,17.4227824771635,World,,World aggregate.
+World,WLD,2007,20.350853799975,World,,World aggregate.
+World,WLD,2008,23.0022914898677,World,,World aggregate.
+World,WLD,2009,25.5528191872428,World,,World aggregate.
+World,WLD,2010,28.794889725981,World,,World aggregate.
+World,WLD,2011,31.2150097185221,World,,World aggregate.
+World,WLD,2012,33.7174057129876,World,,World aggregate.
+World,WLD,2013,35.659656834335,World,,World aggregate.
+World,WLD,2014,37.8926274881521,World,,World aggregate.
+World,WLD,2015,40.2923627761082,World,,World aggregate.
+World,WLD,2016,43.2853710181541,World,,World aggregate.
+World,WLD,2017,45.7661676897995,World,,World aggregate.
+World,WLD,2018,49.2336352611064,World,,World aggregate.
+World,WLD,2019,53.5706603541952,World,,World aggregate.
+World,WLD,2020,59.577400514468,World,,World aggregate.
 "Yemen, Rep.",YEM,1990,0.0,Middle East & North Africa,Low income,"The World Bank systematically assesses the appropriateness of official exchange rates as conversion factors. In this country, multiple or dual exchange rate activity exists and must be accounted for appropriately in underlying statistics. An alternative estimate (“alternative conversion factor” - PA.NUS.ATLS) is thus calculated as a weighted average of the different exchange rates in use in the country. Doing so better reflects economic reality and leads to more accurate cross-country comparisons and country classifications by income level. For this country, this applies to 1990-2019. Alternative conversion factors are used in the Atlas methodology and elsewhere in World Development Indicators as single-year conversion factors."
 "Yemen, Rep.",YEM,1991,0.0,Middle East & North Africa,Low income,"The World Bank systematically assesses the appropriateness of official exchange rates as conversion factors. In this country, multiple or dual exchange rate activity exists and must be accounted for appropriately in underlying statistics. An alternative estimate (“alternative conversion factor” - PA.NUS.ATLS) is thus calculated as a weighted average of the different exchange rates in use in the country. Doing so better reflects economic reality and leads to more accurate cross-country comparisons and country classifications by income level. For this country, this applies to 1990-2019. Alternative conversion factors are used in the Atlas methodology and elsewhere in World Development Indicators as single-year conversion factors."
 "Yemen, Rep.",YEM,1992,0.0,Middle East & North Africa,Low income,"The World Bank systematically assesses the appropriateness of official exchange rates as conversion factors. In this country, multiple or dual exchange rate activity exists and must be accounted for appropriately in underlying statistics. An alternative estimate (“alternative conversion factor” - PA.NUS.ATLS) is thus calculated as a weighted average of the different exchange rates in use in the country. Doing so better reflects economic reality and leads to more accurate cross-country comparisons and country classifications by income level. For this country, this applies to 1990-2019. Alternative conversion factors are used in the Atlas methodology and elsewhere in World Development Indicators as single-year conversion factors."
