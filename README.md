@@ -1,30 +1,30 @@
 # Global internet accessibility
 
-## Data:
-
-- https://ourworldindata.org/internet
-- https://data.worldbank.org/indicator/IT.NET.USER.ZS
-
 ## How Much of the World Has Access to the Internet?
  
-In this report I'll aim to answer thr following questions:
+In this project I'll explore internet accesibility at a global scale.
 
-- What are the top 5 countries with the highest internet use (by population share)?
-- How many people had internet access in those countries in 2019?
-- What are the top 5 countries with the highest internet use for each of the following regions: 
-1. Middle East & North Africa
-2. Latin America & Caribbean
-3. East Asia & Pacific
-4. South Asia
-5. North America
-6. Europe & Central Asia
-- Create a visualization for those five regions' internet usage over time.
-- What are the 5 countries with the most internet users?
-- What is the correlation between internet usage (population share) and broadband subscriptions for 2019?
-- Summarize your findings.
+Guidelines:
+1. What share of people are online?
+- Share of the population using the internet by country
+- Share of the population using the internet by Income Group
+- Share of the population using the internet by Region
+
+2. How many Internet users does each country have?
+- Total number of people using the internet by region
+- Top 10 countries with the highest internet use (by population share) in 2020
+- Top 10 over time
+
+3. Summary
 
 
-### Tech:
-- Python + Pandas
-- Seaborn
-- Github <3
+## Data:
+
+### Population :
+https://data.worldbank.org/indicator/SP.POP.TOTL
+
+### Individuals using the Internet (% of population) :
+https://data.worldbank.org/indicator/IT.NET.USER.ZS
+
+### Inspo
+- https://ourworldindata.org/internet
